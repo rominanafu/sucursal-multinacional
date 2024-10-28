@@ -37,3 +37,7 @@ El total de gastos contemplados es el siguiente:
     * Alcantarillado: 16 917.93
     * IVA: 33 023.79
 * Gestión de residuos: 2 708.82 por siete días de recolección a la semana
+
+## Resultados 📋
+
+Se necesitaría convencer a 22.4% de la población para lograr cubrir los gastos estimados y además tener una ganancia de millón y medio pesos con una probabilidad de 0.99.
