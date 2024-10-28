@@ -41,3 +41,11 @@ El total de gastos contemplados es el siguiente:
 ## Resultados 📋
 
 Se necesitaría convencer a 22.4% de la población para lograr cubrir los gastos estimados y además tener una ganancia de millón y medio pesos con una probabilidad de 0.99.
+
+## Ratings ★★★☆☆
+
+Los datos con los que se cuentan tienen una columna que contiene la calificación del usuario respecto al supermercado, del 1 al 10. La distribución de los ratings se ve de la siguiente manera:
+
+![Histograma de ratings](imgs/ratings.png)
+
+Esta distribución tiene una tendencia a ser uniforme, lo cual indica que no hay una gran inclinación de los clientes a preferir o no al supermercado. Tomando una muestra de 10 personas, la probabilidad de que el promedio de sus ratings sea mayor o igual a 8.5 es del 0.002464. Si la muestra es de 5 personas, la probabilidad de que el promedio sea mayor o igual a 8.5 es de 0.0234. Estas probabilidades son muy bajas, por lo que es necesario tomar medidas para mejorar la percepción del supermercado en los clientes, y así lograr que más personas prefieran este supermercado sobre otros.
